@@ -22,7 +22,7 @@ to read the task description and get started.
 Application logic is in *dbUpdate.js
 
 Unit Testing -  Have added CDN reference for Jasmine to write unit test cases.
-To run unit test please open * specRunner.html in browser
+To run unit test please open *specRunner.html in browser
 
 ```
 Name - Gautam Kochar
